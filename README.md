@@ -8,5 +8,5 @@
 ![Screenshot](hillskills-main.png)
 
 ## App screens in light and dark mode
-Screens include registration sequence, log-in, looking/offering post feed, private messaging feature, social feed, profile and profile edit, app info, and settings.
+Screens include registration sequence, log-in, looking/offering post feed, private messaging feature, social feed, profile and profile edit, app info, and settings. <br><br>
 ![Screenshot](hillskills-screens.png)
