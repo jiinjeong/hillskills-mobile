@@ -4,8 +4,8 @@
 * **Teammates**: Emma Yanco, Seamus Wiseman, Kirubel Tesfaye
 * **Special Thanks**: Professor Strash (Hamilton, CS) who served as our technical supervisor and Professor Huff (Hamilton, Digital Arts) who served as our client.
 
-Our app summary
+## App summary
 ![Screenshot](hillskills-main.png)
 
-Our app screens in light and dark mode
+## App screens in light and dark mode
 ![Screenshot](hillskills-screens.png)
